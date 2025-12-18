@@ -1,9 +1,12 @@
 # 1 Vulnerability Management  
 ## Main Questions 
 A. How easly can attackers exploit the vulnerability  
-B. Do any available patches address the vulnerability  
+B. Do any available patches address the vulnerability    
+  -firmware was updated?      
 C. What type of data does the vulnerability expose  
 D. How many systems does this vulnerability  
+
+Note: Implement a firewall
 
 # 2 Penetration Testing
 ## four steps 
@@ -19,4 +22,10 @@ D. How many systems does this vulnerability
    ### Tools for attacking:
    * Exploitation frameworks provide repositories of prebuilt attacks and exploits. Consider the Metasploit project, a tool for finding existing exploits or sharing your own.
    * Password-cracking tools
-     
+
+   # 3 System Security   
+   1 Implementing patch management    
+   2 Disabling unnecessary ports and services   
+   3 Enabling event logging   
+   4 Using secure authentication   
+   5 Backing up data   
